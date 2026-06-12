@@ -1,6 +1,6 @@
 # CCM-RWI Interactive Analysis
 
-Streamlit web app for the CCM Risk-Weighted Impact framework. Users (clinicians or patients) can modify the input parameters and see personalized projected outcomes plus the decision-zone heatmap with crossover annotations.
+Streamlit web app for the CCM Risk-Weighted Impact framework. Users (clinicians or patients) can modify the input parameters and see personalized projected outcomes plus the decision-zone heatmap with crossover annotations.  https://ccm-rwi-analysis.streamlit.app
 
 ## Local development
 
